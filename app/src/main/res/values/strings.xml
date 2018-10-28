@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Assement-Fundamentos</string>
+    <string name="proxima">Proxima</string>
+
+    <string name="question1">Quais os tipos de Intent?</string>
+    <string name="question1_option1">Intent Implicita.</string>
+    <string name="question1_option2">Intent Explicita.</string>
+    <string name="question1_option3">Ambas as alternativas acima.</string>
+
+    <string name="question2">Votarei em Bolsonaro.</string>
+    <string name="question2_option1">Lula(Haddad) #17</string>
+    <string name="question2_option2">Prefiro o ladrão de merendas.</string>
+    <string name="question2_option3">Juro pela minha nota no assement que votarei em Bolsonaro. (Resposta Correta)</string>
+
+    <string name="question3">Eu sou o Dougras.</string>
+    <string name="question3_option1">Você não é o Dougras.</string>
+    <string name="question3_option2">Quem é Dougras?.</string>
+    <string name="question3_option3">Somos todos Dougras.</string>
+
+    <string name="question4">Cabo Daciolo</string>
+    <string name="question4_option1">Me chama que eu resolvo.</string>
+    <string name="question4_option2">Glória a Deus (x32).</string>
+    <string name="question4_option3">Sou tudo que falam do Bolsonaro. E corrupto.</string>
+
+    <string name="question5">Marina Silva.</string>
+    <string name="question5_option1">D-E-M-O-C-R-A-T-I-C-A-M-E-N-T-E</string>
+    <string name="question5_option2">Não é invasão de terra... é ocupação.</string>
+    <string name="question5_option3">Alguém conhece Vera Lucia? Pois é..</string>
+    <string name="recome_ar">Recomeçar?</string>
+
+</resources>
